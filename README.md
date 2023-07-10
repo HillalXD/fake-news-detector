@@ -11,6 +11,7 @@ This project requires **Python** and the following Python libraries installed:
 - [tensorflow](https://www.tensorflow.org/)
 - [keras](https://keras.io/)
 - [flask](https://fastapi.tiangolo.com)
+- [csv file](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
 ## Usage
 
